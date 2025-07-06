@@ -55,13 +55,17 @@
 
 
 # sum even and odd numbers in a range seprately✔️
-n = int(input("sum to even and odd :-"))
-even = 0
-odd = 0
-for i in range(1, n + 1):
-    if 1 % 2 == 0:
-        even = even + i
-    else:
-        odd = odd + i
-    print(f"your values even and odd sum {even},{odd}")
+# n = int(input("sum to even and odd :-"))
+# even = 0
+# odd = 0
+# for i in range(1, n + 1):
+#     if 1 % 2 == 0:
+#         even = even + i
+#     else:
+#         odd = odd + i
+#     print(f"your values even and odd sum {even},{odd}")
 # ✔️find factors  the number devid by any number to and is 0 so its factor of given number
+n = int(input("which number factors you want :-"))
+for i in range(1,n+1):
+    if n % i == 0:
+        print(i)
