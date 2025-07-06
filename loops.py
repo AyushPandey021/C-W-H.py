@@ -1,0 +1,54 @@
+# loops
+# types of loops only 2 types of loops
+# for loop
+# while loop
+
+# 1st
+# positive loop
+# for a in range(1,13 ):
+#   print(a)
+# # reverse nagitive loop
+# for i in range(-12,-10,-1):
+#   print(i)
+
+
+#  tabel
+# for i in range(7,71,7):
+#     print(i)
+# any number table print
+# n = int(input("which table you want ?"))
+# for i in range(n,(n*10+1),n):
+#    print(i)
+
+# a = "Ayush is to starting Praticeing python"
+
+
+# loops questions
+# give the number and name  print it
+# n = int(input("please tell your number :-"))
+# for i in range(n,0):
+#     print("hello word")
+# natural number
+# for i in range(1,n+1):
+#     print(i)
+# negitive number
+# for i in range(n,0,-1):
+#     print(i)
+
+
+# printing a table ✔️
+# n = int(input("which table you want :- "))
+# for i in range (1,11):
+#   print(f"{n} * {i} = {n*i}")
+# find factorial✔️
+# n = int(input("please tell your number to find fectorial:- "))
+# fact = 1
+# for i in range(1,n+1):
+#  fact = fact * i
+#  print(f"your factorial is {fact}")
+# sum of number ✔️
+n = int(input("please tell your number to find fectorial:- "))
+sum = 0
+for i in range(1, n + 1):
+    sum = sum + i
+print(f"sum of number {sum}")
