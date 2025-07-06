@@ -65,7 +65,18 @@
 #         odd = odd + i
 #     print(f"your values even and odd sum {even},{odd}")
 # ✔️find factors  the number devid by any number to and is 0 so its factor of given number
-n = int(input("which number factors you want :-"))
-for i in range(1,n+1):
+# n = int(input("which number factors you want :-"))
+# for i in range(1,n+1):
+#     if n % i == 0:
+#         print(i)
+# ✔️accpect the number and check if it a perfect number or not a number whose sum of factor is equal to the number itself
+
+n = int(input("plese tell your number is perfect or not:- "))
+sum = 0
+for i in range( 1,n):
     if n % i == 0:
-        print(i)
+        sum = sum + i
+if sum == n:
+    print("perfect")
+else:
+    print("not perfect")

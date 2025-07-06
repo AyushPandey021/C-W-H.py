@@ -16,14 +16,19 @@
 #     odd =+ i
 #     print(f"{even}, {odd}")
 # Q.3  Count the number of even and odd digit in a number.
-num = int(input("Enter a number: - "))
-even = 0
-odd = 0
+# n = int(input("Enter a number: - "))
+# even = 0
+# odd = 0
 
-for digit in num:
-    if int(digit) % 2 == 0:
-        even += 1
-    else:
-        odd += 1
-print("Number of even digit", {even})
-print("Number of even digit", {odd})
+# for digit in n:
+#     if int(digit) % 2 == 0:
+#         even += 1
+#     else:
+#         odd += 1
+# print("Number of even digit", {even})
+# print("Number of even digit", {odd})
+
+# Q.4 printing mutiplication table ✔️
+n = int(input("write the number to give multiplication table :- "))
+for i in range(1,11):
+  print(f"{n} * {i} = {n*i}")
