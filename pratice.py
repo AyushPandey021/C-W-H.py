@@ -5,7 +5,7 @@
 #    print(f"{i} is even")
 # else:
 #   print(f"{i} is odd")
-# 2. Find the sum of the even and odd number from 1 to n
+# 2. Find the sum of the even and odd number from 1 to n✔️
 # n = int(input("even odd add "))
 # even = 0
 # odd = 0
@@ -15,7 +15,7 @@
 #   else:
 #     odd =+ i
 #     print(f"{even}, {odd}")
-# Q.3  Count the number of even and odd digit in a number.
+# Q.3  Count the number of even and odd digit in a number.✔️
 # n = int(input("Enter a number: - "))
 # even = 0
 # odd = 0
@@ -48,7 +48,7 @@
 #     else:
 #         print(i)
 
-# Q.check wether the number is prime or not.
+# Q.check wether the number is prime or not.✔️
 # n = int(input("Check your number is a prime or not :-"))
 # count = 0
 # for i in range(1, n + 1):
@@ -59,9 +59,12 @@
 #  else:
 #         print("not prime")
 
-# Q.Reversed a string  using loop
-a= "yes i am apdev."
-b = ""
-for i in range(len(a)-1,-1,-1):
-  b = b + a[i]
-  print(a[i])
+# Q.Reversed a string  using loop✔️
+# a =input("Write your name and check :")
+# b=""
+# for i in range(len(a)-1,-1,-1):
+#   b = b+a[i]
+# if b == a:
+#  print("your string is pallindrome")
+# else:
+#   print("its not a pallindrome")
