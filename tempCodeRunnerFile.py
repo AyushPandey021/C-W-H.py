@@ -1,10 +1,9 @@
-a = int(input("tell your number: "))
-# copy = a 
-# rev = 0 
-# while a > 0:
-#   rev = rev * 10 + a %10
-#   a = a //10
-# if copy == rev:
-#   print('its p number')
-# else:
-#   print("not a p number")
+l = [-45, 67, 12, -70, -4, 34]
+# print("Possitve elements are")
+# for i in a:
+#     if i >= 0:
+#         print("nagitive elements are")
+#         for i in l:
+
+#             if i < 0:
+#                 print(i)

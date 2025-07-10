@@ -68,3 +68,11 @@
 #  print("your string is pallindrome")
 # else:
 #   print("its not a pallindrome")
+
+
+# Str pratice 
+password = "fafjds"
+if len(password)> 10:
+  print("login is done")
+else: 
+  print("login faild ")
