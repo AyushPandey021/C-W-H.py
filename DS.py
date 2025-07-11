@@ -43,7 +43,7 @@
 #          sec_lergest = i
 # print(sec_lergest,lergest)
 # Q check if list are sorted or not
-a = [1,2,3,4,5,6,7]
+a = [1, 2, 3, 4, 5, 6, 7]
 for i in range(len(a) - 1):
     if a[i] < a[i + 1]:
         continue
