@@ -1,5 +1,5 @@
 # Question for pratice✔️✔️
-# 1.find the 1 to 50 even and odd
+# 1.find the 1 to 50 even and odd✔️
 # for i in range(1,51):
 #   if i%2==0:
 #    print(f"{i} is even")
@@ -70,9 +70,15 @@
 #   print("its not a pallindrome")
 
 
-# Str pratice 
-password = "fafjds"
-if len(password)> 10:
-  print("login is done")
-else: 
-  print("login faild ")
+# list pratice question
+# shorted the list✔️
+# checking your list shorted or not 
+L = [1, 2,3,4,5,6]
+for i in range(len(L) - 1):
+    if L[i] < L[i + 1]:
+        continue
+    else:
+        print("your L not sorted")
+        break
+else:
+    print("your L is sorted ")
