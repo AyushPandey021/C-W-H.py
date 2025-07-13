@@ -14,7 +14,7 @@ def createFile():
         readfileandfolder()
         name = input("please tell your file name :-")
         p = Path(name)
-        if not p.exists() and p.is_file():
+        if not p.exists():
 
             with open(p, "w") as fs:
                 data = input("what you want to write in this file:-")
