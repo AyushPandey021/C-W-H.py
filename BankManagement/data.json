@@ -1,0 +1,99 @@
+
+  {
+    "name": "ASDFWS",
+    "age": 223,
+    "email": "gmail.com",
+    "pin": 2342,
+    "accountNo.": "cE9Z^44",
+    "balance": 0
+  },
+  {
+    "name": "Ayush ",
+    "age": 21,
+    "email": "apdev@gmail.com",
+    "pin": 2311,
+    "accountNo.": "EnP!654",
+    "balance": 0
+  },
+  {
+    "name": "Ayush Pandey ",
+    "age": 23,
+    "email": "apdev@gmail.com",
+    "pin": 1111,
+    "accountNo.": "8MCP5&8",
+    "balance": 0
+  },
+  {
+    "name": "Ayush ",
+    "age": 21,
+    "email": "apdev@gmail.com",
+    "pin": 1213,
+    "accountNo": "r)4b7R3",
+    "balance": 3000
+  },
+  {
+    "name": "ritik",
+    "age": 23,
+    "email": "rk@gmail.com",
+    "pin": 2323,
+    "accountNo": "5D7F#O1",
+    "balance": 0
+  },
+  {
+    "name": "kaka",
+    "age": 32,
+    "email": "kak@gmail.com",
+    "pin": 2322,
+    "accountNo": "Gj62*5f",
+    "balance": 0
+  }
+
+[
+  {
+    "name": "ASDFWS",
+    "age": 223,
+    "email": "gmail.com",
+    "pin": 2342,
+    "accountNo.": "cE9Z^44",
+    "balance": 0
+  },
+  {
+    "name": "Ayush ",
+    "age": 21,
+    "email": "apdev@gmail.com",
+    "pin": 2311,
+    "accountNo.": "EnP!654",
+    "balance": 0
+  },
+  {
+    "name": "Ayush Pandey ",
+    "age": 23,
+    "email": "apdev@gmail.com",
+    "pin": 1111,
+    "accountNo.": "8MCP5&8",
+    "balance": 0
+  },
+  {
+    "name": "Ayush ",
+    "age": 21,
+    "email": "apdev@gmail.com",
+    "pin": 1213,
+    "accountNo": "r)4b7R3",
+    "balance": 3000
+  },
+  {
+    "name": "ritik",
+    "age": 23,
+    "email": "rk@gmail.com",
+    "pin": 2323,
+    "accountNo": "5D7F#O1",
+    "balance": 0
+  },
+  {
+    "name": "kaka",
+    "age": 32,
+    "email": "kak@gmail.com",
+    "pin": 2322,
+    "accountNo": "Gj62*5f",
+    "balance": 0
+  }
